@@ -19,7 +19,7 @@
 
   <ItemGroup>
     <PackageReference Include="Humanizer.Core" Version="2.3.3" />
-    <PackageReference Include="IdentityServer4" Version="2.2.0" />
+    <PackageReference Include="IdentityServer4" Version="2.5.3" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.1.1" />
     <PackageReference Include="Microsoft.AspNetCore.TestHost" Version="2.1.1" />
     <PackageReference Include="StyleCop.Analyzers" Version="1.1.0-beta007" />
